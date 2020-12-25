@@ -6,7 +6,7 @@
 
 void printUsage() {
 	string usage = "Usage:\n";
-	usage += "setvolume [get|set] [volume] [mute]\n";
+	usage += "setvolume [get | set] [volume] [mute]\n";
 	usage += "    get: return current volume status\n";
 	usage += "    volume: set volume value ([0, 100])\n";
 	usage += "    mute: set mute status (0 to maintain, -1 to mute, 1 to speak)";

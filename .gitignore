@@ -7,4 +7,5 @@
 **/Release/*.pdb
 **/Release/*.pch
 **/Release/*.lastbuildstate
+**/Release/*.unsuccessfulbuild
 **/*.exe
