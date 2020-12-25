@@ -1,0 +1,10 @@
+/*.sdf
+**/Debug/**
+/ipch/**
+**/*.log
+**/*.tlog
+**/Release/*.obj
+**/Release/*.pdb
+**/Release/*.pch
+**/Release/*.lastbuildstate
+**/*.exe
